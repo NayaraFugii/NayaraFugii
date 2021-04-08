@@ -1,7 +1,7 @@
 ![image](./NayaraFugii.png)
- ### _Olá, eu sou a Nayara e sou desenvolvedora Front-End._
+ <h3>Olá, eu sou a Nayara e sou desenvolvedora Front-End.</h2>
 
- ### _No meu perfil, você irá encontrar projetos realizados com as tecnologias:_
+ <h3>No meu perfil, você irá encontrar projetos realizados com as tecnologias:</h3>
 
 
 * HTML
@@ -12,6 +12,6 @@
 * Um poquinho de Node.js e Heroku
 
 
-### _Seja bem vindo(a) e sinta-se à vontade!_
+<h3>Seja bem vindo(a) e sinta-se à vontade!</h3>
 
 ![Alt Text](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)
