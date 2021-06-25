@@ -7,6 +7,7 @@
 * CSS
 * JavaScript
 * Reactjs
+* Angular
 * Firebase
 * Um poquinho de Node.js e Heroku
 
